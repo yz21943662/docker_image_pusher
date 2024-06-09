@@ -1,6 +1,5 @@
 kasmweb/nginx:1.25.3
 python:alpine3.19
-gitlab:latest
 zookeeper:latest
 wurstmeister/kafka:latest
 provectuslabs/kafka-ui:latest
