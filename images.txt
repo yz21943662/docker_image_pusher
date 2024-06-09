@@ -1,2 +1,14 @@
 kasmweb/nginx:1.25.3
 python:alpine3.19
+gitlab:latest
+zookeeper:latest
+wurstmeister/kafka:latest
+provectuslabs/kafka-ui:latest
+minio/minio:latest
+zookeeper:latest
+redis:latest
+mysql:latest
+debezium/example-mysql:1.1:latest
+yagagagaga/doris-standalone:latest
+kodcloud/kodbox:latest
+jenkins/jenkins:latest
