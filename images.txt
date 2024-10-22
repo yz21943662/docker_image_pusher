@@ -1,3 +1,4 @@
 minio/minio
 redis:latest
 alpine:3.10.3
+python:2.7
