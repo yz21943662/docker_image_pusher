@@ -1,2 +1,1 @@
-chishin/nginx-proxy-manager-zh
-nginx
+nacos/nacos-server:v2.4.3
