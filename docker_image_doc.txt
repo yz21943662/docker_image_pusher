@@ -20,3 +20,6 @@ registry
 homeassistant/home-assistant:2024.6
 chishin/nginx-proxy-manager-zh
 nginx
+nacos/nacos-server:v2.4.3
+prom/prometheus:latest
+grafana/grafana:latest
