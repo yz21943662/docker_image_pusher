@@ -25,3 +25,4 @@ prom/prometheus:latest
 grafana/grafana:latest
 portainer/portainer-ce:2.9.1
 onlyoffice/documentserver
+openjdk:8-jdk-alpine
