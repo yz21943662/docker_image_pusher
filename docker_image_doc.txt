@@ -27,3 +27,4 @@ portainer/portainer-ce:2.9.1
 onlyoffice/documentserver
 openjdk:8-jdk-alpine
 apache/seatunnel
+ghcr.io/imputnet/cobalt:7
