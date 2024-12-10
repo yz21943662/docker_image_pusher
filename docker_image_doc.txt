@@ -28,3 +28,6 @@ onlyoffice/documentserver
 openjdk:8-jdk-alpine
 apache/seatunnel
 ghcr.io/imputnet/cobalt:7
+postgres:latest
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
