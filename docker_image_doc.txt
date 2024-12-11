@@ -32,3 +32,5 @@ postgres:latest
 bitnami/postgresql:15.2.0
 bitnami/zookeeper:3.7.1
 centos:7
+zookeeper:3.8.4
+postgres:15.7
