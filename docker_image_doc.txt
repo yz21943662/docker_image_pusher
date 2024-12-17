@@ -34,3 +34,4 @@ bitnami/zookeeper:3.7.1
 centos:7
 zookeeper:3.8.4
 postgres:15.7
+ubuntu:24.10
