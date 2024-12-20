@@ -1,1 +1,1 @@
-foamzou/melody:latest
+homeassistant/home-assistant:latest
