@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+gitlab/gitlab-ce:latest

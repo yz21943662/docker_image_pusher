@@ -38,3 +38,4 @@ ubuntu:24.10
 python:3.11
 python:3.11-alpine
 foamzou/melody:latest
+homeassistant/home-assistant:latest
