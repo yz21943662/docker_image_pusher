@@ -39,3 +39,5 @@ python:3.11
 python:3.11-alpine
 foamzou/melody:latest
 homeassistant/home-assistant:latest
+dinkydocker/dinky-standalone-server:1.0.3-flink1.17
+flink:1.17-scala_2.12-java8
