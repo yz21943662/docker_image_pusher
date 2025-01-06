@@ -1,2 +1,2 @@
-dinkydocker/dinky-standalone-server:1.2-flink1.20
-flink:1.20.0-scala_2.12-java8
+dinkydocker/dinky-standalone-server:1.2-flink1.19
+flink:1.19.1-scala_2.12-java8
