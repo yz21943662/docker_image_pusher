@@ -1,2 +1,1 @@
-dinkydocker/dinky-standalone-server:1.2-flink1.19
-flink:1.19.1-scala_2.12-java8
+docker.io/gitea/gitea:1.23.1-rootless
