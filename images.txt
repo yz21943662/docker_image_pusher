@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+homeassistant/home-assistant:2025.2
