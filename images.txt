@@ -1,3 +1,1 @@
-huntress/postgres-partman:17.3
-huntress/postgres-partman:15.2
-huntress/postgres-partman:16.7
+easy-dataset
