@@ -51,3 +51,5 @@ huntress/postgres-partman:17.3
 huntress/postgres-partman:15.2
 huntress/postgres-partman:16.7
 2691432189/easy-dataset
+cimg/android:2025.04.1-node
+cimg/android:2025.02
