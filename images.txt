@@ -1,1 +1,3 @@
-langgenius/dify-plugin-daemon:0.0.7-local
+snowdreamtech/frps:nightly-alpine3.2
+snowdreamtech/frps:nightly-alpine
+snowdreamtech/frps:nightly-debian
