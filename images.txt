@@ -1,3 +1,2 @@
-snowdreamtech/frps:nightly-alpine3.2
 snowdreamtech/frps:nightly-alpine
 snowdreamtech/frps:nightly-debian
