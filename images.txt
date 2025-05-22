@@ -1,1 +1,2 @@
-evil0ctal/douyin_tiktok_download_api
+snowdreamtech/frpc:nightly-alpine
+snowdreamtech/frpc:nightly-debian
