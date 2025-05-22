@@ -1,2 +1,1 @@
-snowdreamtech/frpc:nightly-alpine
-snowdreamtech/frpc:nightly-debian
+homeassistant/home-assistant:2025.5
