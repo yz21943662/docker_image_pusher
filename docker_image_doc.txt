@@ -75,3 +75,4 @@ snowdreamtech/frps:nightly-alpine
 snowdreamtech/frps:nightly-debian
 snowdreamtech/frpc:nightly-alpine
 snowdreamtech/frpc:nightly-debian
+homeassistant/home-assistant:2025.5
