@@ -1,1 +1,1 @@
-tomcat:9.0-jdk8
+privoce/vocechat-server
