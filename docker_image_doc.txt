@@ -78,3 +78,4 @@ snowdreamtech/frpc:nightly-debian
 homeassistant/home-assistant:2025.5
 tomcat:9.0-jdk8
 privoce/vocechat-server
+idootop/mi-gpt
