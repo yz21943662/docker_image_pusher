@@ -80,3 +80,5 @@ tomcat:9.0-jdk8
 privoce/vocechat-server
 idootop/mi-gpt
 bestzwei/libretv
+mysql:8.0.18
+rabbitmq:3.12.0-management
