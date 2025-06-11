@@ -1,4 +1,4 @@
-阿里云仓库地址: registry.cn-hangzhou.aliyuncs.com/yinzhou_docker_hub/
+阿里云仓库地址: registry.cn-hangzhou.aliyuncs.com/yinzhou_docker_hub/minio:latest
 
 历史拉去过的镜像:
 minio/minio
@@ -79,3 +79,4 @@ homeassistant/home-assistant:2025.5
 tomcat:9.0-jdk8
 privoce/vocechat-server
 idootop/mi-gpt
+bestzwei/libretv
