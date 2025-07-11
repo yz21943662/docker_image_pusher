@@ -1,1 +1,4 @@
-onlyoffice/documentserver
+mariadb:10.11
+memcached:1.6
+seafileltd/elasticsearch:7.16.3
+seafileltd/seafile-pro:latest
