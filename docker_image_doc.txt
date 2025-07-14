@@ -91,3 +91,4 @@ elasticsearch:8.5.0
 logstash:8.5.0
 kibana:8.5.0
 rockchin/langbot
+homeassistant/home-assistant:2025.6
