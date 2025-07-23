@@ -94,3 +94,6 @@ rockchin/langbot
 homeassistant/home-assistant:2025.6
 rustfs/rustfs
 docker.n8n.io/n8nio/n8n:latest
+zookeeper
+wurstmeister/kafka
+provectuslabs/kafka-ui

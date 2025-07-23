@@ -1,3 +1,1 @@
-zookeeper
-wurstmeister/kafka
-provectuslabs/kafka-ui
+apache/flink:1.18-scala_2.12-java8
