@@ -1,1 +1,1 @@
-apache/flink:1.18-scala_2.12-java8
+apache/flink:1.19-scala_2.12-java8
