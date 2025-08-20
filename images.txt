@@ -1,1 +1,2 @@
-apache/superset
+selectdb/doris.fe-ubuntu:3.0.3
+selectdb/doris.be-ubuntu:3.0.3

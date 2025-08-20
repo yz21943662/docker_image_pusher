@@ -111,3 +111,4 @@ bitnami/etcd:2.5
 bitnami/elasticsearch:7.18.0
 bitnami/redis:7.0
 doocs/md
+apache/superset
