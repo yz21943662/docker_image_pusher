@@ -112,3 +112,5 @@ bitnami/elasticsearch:7.18.0
 bitnami/redis:7.0
 doocs/md
 apache/superset
+selectdb/doris.fe-ubuntu:3.0.3
+selectdb/doris.be-ubuntu:3.0.3
