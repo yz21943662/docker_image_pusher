@@ -1,1 +1,2 @@
-apache/superset:4.1.3-py310
+apache/superset:5.0.0-py310
+apache/superset:5.0.0

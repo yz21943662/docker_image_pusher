@@ -115,3 +115,4 @@ apache/superset
 selectdb/doris.fe-ubuntu:3.0.3
 selectdb/doris.be-ubuntu:3.0.3
 apache/superset:5.0.0-py311
+apache/superset:4.1.3-py310
