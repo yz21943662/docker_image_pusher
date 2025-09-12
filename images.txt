@@ -1,1 +1,1 @@
-apache/superset:5.0.0-dev
+astral/uv:python3.11-bookworm-slim
