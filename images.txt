@@ -1,1 +1,2 @@
 astral/uv:python3.11-bookworm-slim
+postgres:16.10
