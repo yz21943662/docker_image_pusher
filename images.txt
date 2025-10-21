@@ -1,2 +1,4 @@
-astral/uv:python3.11-bookworm-slim
-postgres:16.10
+bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+bde2020/hive:2.3.2-postgresql-metastore
+bde2020/hive-metastore-postgresql:2.3.0

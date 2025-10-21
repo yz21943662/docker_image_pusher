@@ -119,3 +119,5 @@ apache/superset:4.1.3-py310
 apache/superset:5.0.0-py310
 apache/superset:5.0.0
 apache/superset:5.0.0-dev
+astral/uv:python3.11-bookworm-slim
+postgres:16.10
