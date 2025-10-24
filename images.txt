@@ -1,1 +1,1 @@
-apache/iceberg-spark-runtime:1.5.0
+tabulario/iceberg-spark:1.5.0
