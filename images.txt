@@ -1,3 +1,2 @@
-flink:1.17-scala_2.12-java8
-apache/hive:4.0.0-beta-1
-minio/minio:RELEASE.2023-08-16T18-25-24Z
+tabulario/iceberg-rest:1.5.0
+minio/mc
