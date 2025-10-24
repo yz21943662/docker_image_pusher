@@ -1,2 +1,1 @@
-tabulario/iceberg-rest:1.5.0
-minio/mc
+apache/iceberg-spark-runtime:1.5.0
