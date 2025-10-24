@@ -1,1 +1,1 @@
-tabulario/spark-iceberg:3.5.1_1.5.0
+tabulario/spark-iceberg:3.5.5_1.8.1

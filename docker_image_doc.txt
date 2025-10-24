@@ -129,4 +129,5 @@ shawnzhu/prestodb:0.181
 neosmemo/memos:stable
 tabulario/iceberg-rest:1.5.0
 minio/mc
-
+tabulario/spark-iceberg:3.5.1_1.5.0
+tabulario/spark-iceberg:3.5.0_1.4.2
