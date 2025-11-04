@@ -131,3 +131,7 @@ tabulario/iceberg-rest:1.5.0
 minio/mc
 tabulario/spark-iceberg:3.5.1_1.5.0
 tabulario/spark-iceberg:3.5.0_1.4.2
+minio/minio:latest
+postgres:13
+apache/hive:4.1.0
+flink:1.18.0-scala_2.12-java11
