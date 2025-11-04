@@ -135,3 +135,4 @@ minio/minio:latest
 postgres:13
 apache/hive:4.1.0
 flink:1.18.0-scala_2.12-java11
+jlesage/firefox

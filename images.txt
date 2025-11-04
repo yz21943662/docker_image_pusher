@@ -1,1 +1,1 @@
-jlesage/firefox
+selenium/standalone-chrome:141.0-20251025
