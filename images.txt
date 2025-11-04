@@ -1,1 +1,1 @@
-selenium/standalone-chrome:141.0-20251025
+bde2020/hadoop-resourcemanager:2.0.0-hadoop2.7.4-java8
