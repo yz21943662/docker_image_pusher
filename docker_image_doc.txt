@@ -137,4 +137,6 @@ apache/hive:4.1.0
 flink:1.18.0-scala_2.12-java11
 jlesage/firefox
 selenium/standalone-chrome:141.0-20251025
+bde2020/hadoop-resourcemanager:2.0.0-hadoop2.7.4-java8
+
 
