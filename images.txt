@@ -1,2 +1,1 @@
-zookeeper:3.9.2
 clickhouse/clickhouse-server:latest
