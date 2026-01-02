@@ -1,1 +1,1 @@
-dperson/samba
+nginx:latest
