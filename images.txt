@@ -1,3 +1,1 @@
-
-happylay/datax-web:v2.1.1-standalone
-happylay/mysql:5.7-v1.0.0
+softwares/datax-web:2.1.2
