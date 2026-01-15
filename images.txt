@@ -1,1 +1,3 @@
-traefik:v2.8
+876745833/datax-admin:1.0
+mysql:5.7
+876745833/datax-executor:1.0
