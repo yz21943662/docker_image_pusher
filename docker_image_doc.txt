@@ -141,3 +141,6 @@ bde2020/hadoop-resourcemanager:2.0.0-hadoop2.7.4-java8
 clickhouse/clickhouse-server:latest
 dperson/samba
 traefik:v2.8
+876745833/datax-admin:1.0
+mysql:5.7
+876745833/datax-executor:1.0

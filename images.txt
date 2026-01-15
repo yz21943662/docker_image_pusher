@@ -1,3 +1,3 @@
-876745833/datax-admin:1.0
-mysql:5.7
-876745833/datax-executor:1.0
+
+happylay/datax-web:v2.1.1-standalone
+happylay/mysql:5.7-v1.0.0
