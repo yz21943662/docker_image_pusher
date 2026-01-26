@@ -147,3 +147,8 @@ mysql:5.7
 happylay/datax-web:v2.1.1-standalone
 happylay/mysql:5.7-v1.0.0
 softwares/datax-web:2.1.2
+apache/dolphinscheduler-tools:3.3.2
+apache/dolphinscheduler-master:3.3.2
+apache/dolphinscheduler-worker:3.3.2
+apache/dolphinscheduler-api:3.3.2
+apache/dolphinscheduler-alert-server:3.3.2
