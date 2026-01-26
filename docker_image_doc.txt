@@ -152,3 +152,5 @@ apache/dolphinscheduler-master:3.3.2
 apache/dolphinscheduler-worker:3.3.2
 apache/dolphinscheduler-api:3.3.2
 apache/dolphinscheduler-alert-server:3.3.2
+apache/doris:doris-fe-2.1.7
+apache/doris:doris-be-2.1.7
