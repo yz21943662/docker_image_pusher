@@ -156,3 +156,4 @@ apache/doris:doris-fe-2.1.7
 apache/doris:doris-be-2.1.7
 apache/doris:fe-4.0.2
 apache/doris:be-4.0.2
+docker.io/foamzou/melody:latest
