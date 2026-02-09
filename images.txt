@@ -1,3 +1,1 @@
-selenium/standalone-chrome
-selenium/standalone-firefox
-selenium/standalone-chrome-debug
+dorowu/ubuntu-desktop-web
