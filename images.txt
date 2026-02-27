@@ -1,1 +1,1 @@
-dorowu/ubuntu-desktop-web
+apache/hive:4.0.0
