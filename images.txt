@@ -1,1 +1,1 @@
-apache/hive:4.0.0
+swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.17.0
