@@ -1,2 +1,1 @@
-mysql:8.0
-wordpress:latest
+halohub/halo:latest
