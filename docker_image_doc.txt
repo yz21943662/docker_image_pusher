@@ -163,3 +163,4 @@ selenium/standalone-chrome-debug
 dorowu/ubuntu-desktop-web
 mysql:8.0
 wordpress:latest
+flink:1.18.1-scala_2.12-java8
