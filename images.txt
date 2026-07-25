@@ -1,1 +1,1 @@
-ollama/ollama
+ghcr.io/openskillshub/open-skills-hub:latest
