@@ -1,1 +1,1 @@
-ghcr.io/openskillshub/open-skills-hub:latest
+calciumion/new-api:latest
