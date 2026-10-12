@@ -1,1 +1,2 @@
-calciumion/new-api:latest
+python:3.11.13-slim-trixie
+node:20-trixie-slim
