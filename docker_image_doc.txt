@@ -166,3 +166,5 @@ wordpress:latest
 flink:1.18.1-scala_2.12-java8
 ghcr.io/openskillshub/open-skills-hub:latest
 calciumion/new-api:latest
+python:3.11.13-slim-trixie
+node:20-trixie-slim
