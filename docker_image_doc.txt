@@ -168,3 +168,5 @@ ghcr.io/openskillshub/open-skills-hub:latest
 calciumion/new-api:latest
 python:3.11.13-slim-trixie
 node:20-trixie-slim
+node:20-bookworm-slim
+python:3.10-slim-bookworm

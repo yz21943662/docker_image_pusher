@@ -1,2 +1,2 @@
-node:20-bookworm-slim
-python:3.10-slim-bookworm
+python:3.11.13-slim-bookworm
+python:3.11-slim-bookworm
