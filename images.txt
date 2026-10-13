@@ -1,2 +1,2 @@
-python:3.11.13-slim-bookworm
 python:3.11-slim-bookworm
+python:3.11.13-slim-bookworm
